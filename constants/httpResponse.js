@@ -1,0 +1,13 @@
+module.exports = Object.freeze({
+    RESPONSE_OK: 'ok',
+    RESPONSE_STATUS_OK: 200,
+    RESPONSE_NO_FOUND: 'result not found',
+    RESPONSE_STATUS_NO_FOUND: 404,
+    RESPONSE_STATUS_WRONG_PARAMS: 400,
+    RESPONSE_STATUS_ERROR: 500,
+    RESPONSE_STATUS_BAD_REQUEST: 400,
+    RESPONSE_BAD_REQUEST: 'bad request',
+    RESPONSE_STATUS_REFUSED: 'ECONNREFUSED',
+    RESPONSE_REFUSED: 'connection refused'
+
+});

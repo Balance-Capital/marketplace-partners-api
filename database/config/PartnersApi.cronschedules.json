@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "605b8d924e71d1db1c0e4e9b"
+  },
+  "name": "skimLinks",
+  "start": "0 * */12 * * *",
+  "active": false,
+  "description": "skimLinks cron",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "605d7cd83babfc1441d55de4"
+  },
+  "name": "exportToApi",
+  "start": "*/10 * * * * *",
+  "active": false,
+  "description": "export to api cron",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6082b87970aa115fcd1d3415"
+  },
+  "name": "commissionJunction",
+  "start": "* * */12 * * *",
+  "active": false,
+  "description": "commission junction cron",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6081792170aa115fcd1d3413"
+  },
+  "name": "eBay",
+  "start": "0 0 2 * * *",
+  "active": false,
+  "description": "ebay cron",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6351227d03eec2d02edaae40"
+  },
+  "name": "adServiceAN",
+  "start": "0 0 3 * * *",
+  "active": false,
+  "description": "ad service an cron",
+  "__v": 0
+}]

@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa4471"
+  },
+  "name": "cacheTitleGenerator",
+  "active": true,
+  "expire": 3600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa4473"
+  },
+  "name": "cacheDefaultKey",
+  "active": true,
+  "expire": 3600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa4472"
+  },
+  "name": "reportImportOffersDaily",
+  "active": true,
+  "expire": 3600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446a"
+  },
+  "name": "filterByValidDate",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa4470"
+  },
+  "name": "storeId",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446d"
+  },
+  "name": "filterByExpiredOffers",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446f"
+  },
+  "name": "redisCacheConfig",
+  "active": true,
+  "expire": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446b"
+  },
+  "name": "sideBarGetSimilarCoupons",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446c"
+  },
+  "name": "sideBarFeatureRetailer",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f0093cc2a4040e99aa446e"
+  },
+  "name": "offersScoreFunction",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fb0b8fdb9c6c23ababbe88"
+  },
+  "name": "productSearch",
+  "active": true,
+  "expire": 86400,
+  "__v": 0
+}]

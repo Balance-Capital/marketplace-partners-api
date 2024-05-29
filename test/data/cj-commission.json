@@ -1,0 +1,40 @@
+{
+    "data": {
+      "publisherCommissions": {
+        "count": 2,
+        "payloadComplete": true,
+        "records": [
+          {
+            "actionTrackerName": "Advanced Sale Test",
+            "websiteName": "Donuts and Denim",
+            "advertiserName": "Visit Canada",
+            "commissionId": "2292067663",
+            "postingDate": "2018-05-03T22:31:48Z",
+            "pubCommissionAmountUsd": "7.781",
+            "items": [
+              {
+                "quantity": 1,
+                "perItemSaleAmountPubCurrency": "75.474",
+                "totalCommissionPubCurrency": "7.548"
+              }
+            ]
+          },
+          {
+            "actionTrackerName": "Advanced Sale Test",
+            "websiteName": "Donuts and Denim",
+            "advertiserName": "Visit Canada",
+            "commissionId": "2292491812",
+            "postingDate": "2018-05-04T19:00:21Z",
+            "pubCommissionAmountUsd": "3.89",
+            "items": [
+              {
+                "quantity": 1,
+                "perItemSaleAmountPubCurrency": "37.737",
+                "totalCommissionPubCurrency": "3.773"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

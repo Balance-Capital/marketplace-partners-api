@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "605b1eaa979cd7316f729c4e"
+  },
+  "name": "skimLinks",
+  "login": "29f430172cdf68c96f854af493595f77",
+  "secret": "f508b84cb1684fc6693e8bb23249c260",
+  "partnerUrlToOffer": "https://merchants.skimapis.com/v4/publisher/185785/offers",
+  "partnerUrlToAuth": "https://authentication.skimapis.com/access_token",
+  "ourId": "185785X1655937",
+  "urlTemplate": "https://go.skimresources.com?id={ourId}&xs=1&url={encodedOfferUrl}&xcust={sessionId}",
+  "offersLimit": 1000,
+  "offersOffset": 0,
+  "countryCode": [
+    "US",
+    "UK",
+    "AU",
+    "BR",
+    "FR",
+    "DE",
+    "NL",
+    "IT",
+    "ES"
+  ],
+  "running": false,
+  "active": false,
+  "otherParams": [
+    {
+      "salesReportUrl": "https://reporting.skimapis.com/publisher/185785/commission-report",
+      "accessToken": "147928:1625744250:2aa52d4413ab084ec2e9e368a463e8b8",
+      "merchantInfoUrl": "https://merchants.skimapis.com/v4/publisher/185785/merchants",
+      "merchantDomainInfoUrl": "https://merchants.skimapis.com/v4/publisher/185785/domain"
+    }
+  ],
+  "partnerTalk": [],
+  "__v": 0
+}]
