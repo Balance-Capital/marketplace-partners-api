@@ -1,0 +1,8 @@
+singleQuote: true
+semi: false
+trailingComma: none
+overrides:
+  - files:
+      - '*.js'
+    options:
+      semi: true
